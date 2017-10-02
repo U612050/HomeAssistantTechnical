@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Home Assistant Technical</string>
+    <string name="title_login">Home Assistant</string>
+    <string name="subtitle_login">Technical</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
