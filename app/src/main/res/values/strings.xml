@@ -11,7 +11,7 @@
     <string name="action_sign_up">Regístrate Ahora</string>
     <string name="error_invalid_email">El correo electrónico es invalido</string>
     <string name="error_invalid_password">La contraseña es muy corta</string>
-    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_incorrect_credencials">No pudimos verificar tus credenciales (correo electrónico y/o contraseña)</string>
     <string name="error_field_required">Este campo es requerido</string>
     <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar correo electrónico"
     </string>
